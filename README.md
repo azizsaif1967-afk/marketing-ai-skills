@@ -38,6 +38,14 @@ All install commands, skill names, agent structures, and links verified live.
 
 Just open `index.html` in a browser, or visit the live site above. No build step required — single file, vanilla HTML/CSS.
 
+## Case Study — EatCookJoy UAE
+
+A brand-customised version of this playbook has been built for **[EatCookJoy UAE](https://eatcookjoy-uae.com)** (UAE personal-chef &amp; meal-prep service). It shows how the generic framework translates into a concrete 5-agent team, pre-written brand context, 4 personas, 12 priority skills, and a 30-day Notion task plan.
+
+🌐 **Live:** https://azizsaif1967-afk.github.io/marketing-ai-skills/eatcookjoy-uae.html
+
+Use it as a reference template when adapting the framework for your own brand.
+
 ## Credit
 
 - Video and original SOP: **Grace Leung** ([@graceleungyl](https://www.youtube.com/@graceleungyl))
