@@ -44,7 +44,13 @@ A brand-customised version of this playbook has been built for **[EatCookJoy UAE
 
 🌐 **Live:** https://azizsaif1967-afk.github.io/marketing-ai-skills/eatcookjoy-uae.html
 
-Use it as a reference template when adapting the framework for your own brand.
+## Case Study — Le Pearl Fashion (GCC)
+
+A second brand-customised build for **[Le Pearl Fashion](https://le-pearl.com)** — a family-owned GCC fashion house (Oman, UAE, KSA, 27+ stores). Pearl/champagne/navy palette with Cormorant Garamond serif, integrated category imagery and persona photos, 4 GCC personas, 5 retail-themed agents (Floor Analyst, Wardrobe Writer, Trend Scout, Stylist, Curator), 3-country routing rules.
+
+🌐 **Live:** https://azizsaif1967-afk.github.io/marketing-ai-skills/le-pearl.html
+
+Use either case study as a reference template when adapting the framework for your own brand.
 
 ## Credit
 
