@@ -50,7 +50,13 @@ A second brand-customised build for **[Le Pearl Fashion](https://le-pearl.com)**
 
 🌐 **Live:** https://azizsaif1967-afk.github.io/marketing-ai-skills/le-pearl.html
 
-Use either case study as a reference template when adapting the framework for your own brand.
+## Case Study — Khadlaj Perfumes (UAE / Global)
+
+A third brand-customised build for **[Khadlaj Perfumes](https://khadlaj-perfumes.com)** — a Sharjah-born oriental fragrance house (est. 1997), shipping to 80+ countries, home of the 10M-bottle Hareem Al Sultan franchise. Amber/oud/cream palette, 5 fragrance gallery tiles, 4 global personas (Connoisseur Abdulaziz, Layering Leila, Gift-Giver Gautam, Discovery Diana), 5 perfumery-themed agents (Note Archivist, Perfumer's Pen, Souq Watcher, Bottle Stylist, Season Nose), and 80-country + TikTok + Amazon-aware routing rules.
+
+🌐 **Live:** https://azizsaif1967-afk.github.io/marketing-ai-skills/khadlaj.html
+
+Use any of the three case studies as a reference template when adapting the framework for your own brand.
 
 ## Credit
 
